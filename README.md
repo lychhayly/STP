@@ -7,17 +7,7 @@
 <p align="center">
 <a href="https://github.com/HarrisSec"><img title="Author" src="https://img.shields.io/badge/Author-DeepSociety-svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
-</p>
 
-<div align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.7-green.svg?style=flat-square"></a>
-<a href="https://github.com/DeepSociety/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeepSociety?color=blue&style=flat-square"></a>
-<a href="https://github.com/HarrisSec/STP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HarrisSec/AIOPhish?color=red&style=flat-square"></a>
-<a href="https://github.com/HarrisSec/STP/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HarrisSec/AIOPhish?color=red&style=flat-square"></a>
-<a href="https://github.com/HarrisSec/STP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HarrisSec/AIOPhish?label=Watchers&color=blue&style=flat-square"></a>
-</div>
-
-# Social Toolkit for Phishing
 
 # Instalación-Termux:
 

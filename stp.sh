@@ -25,10 +25,13 @@ a2(){
   \___ \  |    |  |  |_> > $b for$bcolor
  /____  > |____|  |   __/ $b  Phishing$bcolor
       \/          |__|
-
+      
      ${b}coded by DeepSociety
-
 ${b}< https://github.com/DeepSociety >
+
+     ${b}Mod by Pirata-hack
+${b}< https://github.com/Pirata-hack/STP >
+
  "
 }
 

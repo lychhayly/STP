@@ -11,12 +11,10 @@
 # Instalación
 * `sudo apt-get update && sudo apt-get upgrade -y`
 * `sudo apt-get install git -y`
-* `git clone https://github.com/DeepSociety/STP`
+* `git clone https://github.com/Pirata-hack/STP`
 * `cd STP`
 * `bash install.sh`
 * `bash stp.sh`
-
-###### Si usas termux dale permisos de almacenamiento, para poder acceder a las imagenes
 
 ## Creditos :
 ###  > Por algunas paginas:

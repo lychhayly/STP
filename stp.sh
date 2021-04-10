@@ -27,10 +27,10 @@ a2(){
       \/          |__|
       
      ${b}coded by DeepSociety
-${b}< https://github.com/DeepSociety >
+  ${m}+------------------------+
+      ${z}Mod by Pirata-hack
+${b}<https://github.com/Pirata-hack/STP>
 
-     ${b}Mod by Pirata-hack
-${b}< https://github.com/Pirata-hack/STP >
 
  "
 }
